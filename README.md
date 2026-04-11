@@ -5,9 +5,5 @@ I built these projects to practice secure software development, CI/CD pipelines,
 
 ## 📌 Projects
 
-### 🔹 Basic DevSecOps Pipeline for a Simple API
-
-A beginner-level DevSecOps project where I built a simple Node.js API and integrated a CI pipeline using GitHub Actions.
-Includes automated testing, security scanning with CodeQL, dependency checks using npm audit, and Docker containerization.
-
+### 🔹Docker Monitor
 ---
