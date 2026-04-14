@@ -6,4 +6,5 @@ I built these projects to practice secure software development, CI/CD pipelines,
 ## 📌 Projects
 
 ### 🔹Docker Monitor
+### 🔹Image Scanner
 ---
